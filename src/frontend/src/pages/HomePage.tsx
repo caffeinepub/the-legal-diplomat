@@ -87,7 +87,7 @@ export default function HomePage() {
             className="flex justify-center mb-8"
           >
             <img
-              src="/assets/uploads/Gemini_Generated_Image_o0xt2bo0xt2bo0xt-1.png"
+              src="/assets/uploads/Gemini_Generated_Image_o0xt2bo0xt2bo0xt-1-1.png"
               alt="The Legal Diplomat"
               className="h-28 w-28 md:h-36 md:w-36 object-contain drop-shadow-2xl"
             />

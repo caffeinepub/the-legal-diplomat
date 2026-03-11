@@ -35,7 +35,7 @@ export default function Navbar() {
           className="flex items-center gap-3 group"
         >
           <img
-            src="/assets/uploads/Gemini_Generated_Image_o0xt2bo0xt2bo0xt-1.png"
+            src="/assets/uploads/Gemini_Generated_Image_o0xt2bo0xt2bo0xt-1-1.png"
             alt="The Legal Diplomat"
             className="h-10 w-10 object-contain"
           />
